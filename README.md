@@ -4,7 +4,8 @@
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
 |----|---|-----|------|
-|Ridho Fauzi|312310563|TI.23.A5|Basis Data|
+|Ridho Fauzi|312310451|TI.23.A5|Basis Data|
+
 # Soal Latihan Praktikum
 ## Data Model Mapping
 
